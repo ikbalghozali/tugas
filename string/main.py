@@ -1,7 +1,6 @@
 import os, sys
 import mylib
 '''
-Maaf pak kalo codingnya kurang sempurna
 A11.2019.12060
 '''
 
